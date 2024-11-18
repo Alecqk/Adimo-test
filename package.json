@@ -1,0 +1,14 @@
+
+{
+    "name": "take-home-test",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "axios": "1.4.0",
+      "jsdom": "22.1.0"
+    }
+  }
